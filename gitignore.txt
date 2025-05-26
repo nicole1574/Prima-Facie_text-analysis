@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and outputs
+data/*.bak
+results/
+*.csv
+*.png
+*.pdf
+
+# Jupyter Notebook checkpoints
+notebooks/.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
